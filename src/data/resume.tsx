@@ -11,6 +11,7 @@ import { TailwindIcon } from "@/components/ui/svgs/TailwindIcon";
 import { SassIcon } from "@/components/ui/svgs/SassIcon";
 import { AiFillInstagram } from "react-icons/ai";
 import { IoLogoWhatsapp } from "react-icons/io";
+import { FaFacebook } from "react-icons/fa";
 
 export const DATA = {
   name: "Daniel Sene Vitorelli",
@@ -76,6 +77,12 @@ export const DATA = {
         name: "Whatsapp",
         url: "https://wa.me/5518991448836",
         icon: IoLogoWhatsapp,
+        navbar: true
+      },
+      Facebook: {
+        name: "Facebook",
+        url: "https://www.facebook.com/profile.php?id=100093089763897",
+        icon: FaFacebook,
         navbar: true
       }
     },
