@@ -15,7 +15,7 @@ import { IoLogoWhatsapp } from "react-icons/io";
 export const DATA = {
   name: "Daniel Sene Vitorelli",
   initials: "DV",
-  url: "https://dillion.io",
+  url: "https://portifolio-daniel-vitorelli.vercel.app",
   location: "Birigui, SP",
   locationLink: "https://maps.app.goo.gl/uw1Lsx3ZcP7q7ZnC6",
   description:
