@@ -70,14 +70,14 @@ export const DATA = {
         url: "mailto:danielsenevitoreli@gmail.com",
         icon: Icons.email,
 
-        navbar: true,
+        navbar: false,
       },
 
       Whatsapp: {
         name: "Whatsapp",
         url: "https://wa.me/5518991448836",
         icon: IoLogoWhatsapp,
-        navbar: true
+        navbar: false
       },
       Facebook: {
         name: "Facebook",
